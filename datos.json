@@ -1,0 +1,107 @@
+{
+  "credenciales": {
+    "usuario": "admin",
+    "clave": "1234"
+  },
+  "empleados": [
+    {
+      "cedula": "32026099",
+      "nombre": "Danibel Palomares",
+      "cargo": "Docente",
+      "telefono": "",
+      "correo": ""
+    },
+    {
+      "cedula": "14598382",
+      "nombre": "Elsy Palomares",
+      "cargo": "Obrero",
+      "telefono": "",
+      "correo": ""
+    },
+    {
+      "cedula": "27804851",
+      "nombre": "Jessika Palomares",
+      "cargo": "Obrero",
+      "telefono": "04247212395",
+      "correo": "jessikavanessa@gmail.com"
+    },
+    {
+      "cedula": "27889799",
+      "nombre": "Miguel Ramirez",
+      "cargo": "Administrativo",
+      "telefono": "04124008030",
+      "correo": "No registrado"
+    }
+  ],
+  "asistencias": [
+    {
+      "cedula": "32026099",
+      "fecha": "24/3/2026",
+      "horaEntrada": "17:13:30",
+      "horaSalida": "17:51:41"
+    },
+    {
+      "cedula": "27889799",
+      "fecha": "24/3/2026",
+      "horaEntrada": "17:14:27",
+      "horaSalida": "Pendiente"
+    },
+    {
+      "cedula": "32026099",
+      "fecha": "25/3/2026",
+      "horaEntrada": "18:50:55",
+      "horaSalida": "Pendiente"
+    },
+    {
+      "cedula": "32026099",
+      "fecha": "26/3/2026",
+      "horaEntrada": "21:36:44",
+      "horaSalida": "Pendiente"
+    },
+    {
+      "cedula": "27889799",
+      "fecha": "1/4/2026",
+      "horaEntrada": "19:14:44",
+      "horaSalida": "19:15:08"
+    },
+    {
+      "cedula": "32026099",
+      "fecha": "01/04/2026",
+      "horaEntrada": "19:36:58",
+      "horaSalida": "19:40:02"
+    },
+    {
+      "cedula": "14598382",
+      "fecha": "01/04/2026",
+      "horaEntrada": "21:19:33",
+      "horaSalida": "21:55:10"
+    },
+    {
+      "cedula": "27889799",
+      "fecha": "01/04/2026",
+      "horaEntrada": "21:27:44",
+      "horaSalida": "22:08:06"
+    },
+    {
+      "cedula": "27804851",
+      "fecha": "01/04/2026",
+      "horaEntrada": "22:07:43",
+      "horaSalida": "22:08:16"
+    },
+    {
+      "cedula": "27889799",
+      "fecha": "04/04/2026",
+      "horaEntrada": "19:50:58",
+      "horaSalida": "Pendiente"
+    }
+  ],
+  "permisos": [
+    {
+      "cedula": "32026099",
+      "nombre": "Danibel Palomares",
+      "tipo": "Médico",
+      "desde": "01-04-2026",
+      "hasta": "03-04-2026"
+    }
+  ]
+}
